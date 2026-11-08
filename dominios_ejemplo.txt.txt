@@ -1,0 +1,3 @@
+# Example hostnames for demonstration only
+example.org
+www.example.org
